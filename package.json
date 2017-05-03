@@ -1,0 +1,25 @@
+{
+  "name": "template-typescript-react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Eric Laprise",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^15.0.4",
+    "@types/react-dom": "^0.14.21",
+    "css-loader": "^0.26.1",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.1.5",
+    "webpack": "^1.13.0",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
