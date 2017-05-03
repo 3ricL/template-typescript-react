@@ -2,7 +2,6 @@ var config = require('./webpack.config.js');
 var gulp = require('gulp');
 var rename = require('gulp-rename');
 var sass = require('gulp-sass');
-var cleanCSS = require('gulp-clean-css');
 var webpack = require('webpack-stream');
 
 gulp.task('ts', function() {
